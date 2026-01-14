@@ -1,3 +1,3 @@
 # Gomoku
 
-Gomoku is a classic board game where players compete to get five pieces in a row. This is a C++ implementation with console-based gameplay. Players click on the board to place their symbols. The game supports multiple players and custom board sizes. Win conditions and starting player are configurable. The board displays in the console with a clean interface. Players take turns placing symbols until someone wins or the board fills up. Perfect for learning game development concepts in C++.
+Gomoku is a classic board game where players compete to get five pieces in a row, A japenese version of Tic Tac Toe. This is a C++ implementation with console based gameplay. Players click on the board to place their symbols. The game supports multiple players and custom board sizes. Win conditions and starting player are configurable. The board displays in the console with a clean interface. Players take turns placing symbols until someone wins or the board fills up.
